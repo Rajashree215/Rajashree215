@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rajashree.
-- 👀 I’m interested in Web development and creating cool stuffs.
+- 👀 I’m enthusiastic about Software development.
 - 🌱 I’m currently learning MERN Stack for creating web applications.
-- 💞️ I’m currently on the Final year of my Bachelor's Degree on Computer Science and Engineering.
-- 📫 Reach me on Instagaram! --> https://www.instagram.com/rajashreesrinivasan2/
+- 💞️ I did Bachelor's Degree on Computer Science and Engineering. [2019-2023]
+- 📫 Click me to reach on Instagaram! --> <a href="https://www.instagram.com/rajashreesrinivasan2/">Rajashree✨</a>
 
 <!---
 Rajashree215/Rajashree215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
